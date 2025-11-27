@@ -18,3 +18,4 @@ print(f"Suma: {suma}")
 print(f"Różnica: {roznica}")
 print(f"Iloczyn:", iloczyn)
 print(f"Iloraz: {iloraz}")
+
