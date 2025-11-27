@@ -18,3 +18,4 @@ elif delta == 0:
     print(f"Jedno rozwiązanie: x = {x}")
 else:
     print("Brak pierwiastków rzeczywistych")
+
