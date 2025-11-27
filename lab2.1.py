@@ -11,3 +11,4 @@ for i in range(8):  # jeszcze 8 kolejnych liczb, razem będzie 10
     print(c)        # wypisz nową liczbę
     a = b           # przesuń liczby do przodu
     b = c
+
